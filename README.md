@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this project, let's build a **Fruits Counter** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
@@ -129,3 +130,7 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+=======
+# React-CodingPractice3
+React.js Coding Practice 3 [Fruits Counter]
+>>>>>>> 5346571431d9781877f395567d5afebf091f13a5
